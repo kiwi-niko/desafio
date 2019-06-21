@@ -18,13 +18,10 @@ header{margin-right: 0;}
   color: white;
   text-align:center;}
 h2{
+  font-family: 'Open Sans', sans-serif;
   font-size: 35px;
   text-align: center;
   color: black;
-}
-.contenedorb{
- width: 350px;
-  margin: 0;
 }
 .hero-section {
   text-align: center;
@@ -36,6 +33,9 @@ h2{
   background-position: center;
   color: #ffffff;
   font-size: 40pt;
+}
+.bold{
+  font-family: 'Open Sans Condensed', sans-serif;
 }
 .title{
   padding-top:390px;
